@@ -1,7 +1,10 @@
 <component name="ProjectDictionaryState">
   <dictionary name="babylab">
     <words>
+      <w>backprops</w>
+      <w>conv</w>
       <w>cuda</w>
+      <w>learnable</w>
     </words>
   </dictionary>
 </component>
