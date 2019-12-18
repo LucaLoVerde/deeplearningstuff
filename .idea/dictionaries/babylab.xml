@@ -4,7 +4,9 @@
       <w>backprops</w>
       <w>conv</w>
       <w>cuda</w>
+      <w>dataiter</w>
       <w>learnable</w>
+      <w>optim</w>
     </words>
   </dictionary>
 </component>
