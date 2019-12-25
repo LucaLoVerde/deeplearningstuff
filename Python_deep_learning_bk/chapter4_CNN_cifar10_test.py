@@ -67,3 +67,5 @@ mdl.fit_generator(
     workers=4,
     use_multiprocessing=True
 )
+# Windows support for multiprocessing/multithreading is apparently pathetic, so this will probably fail. I must have spent
+# a whole day trying to install different version of everything. I really think it's time for a proper linux box.
