@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pyTorch_test.iml" filepath="$PROJECT_DIR$/.idea/pyTorch_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/deeplearningstuff.iml" filepath="$PROJECT_DIR$/.idea/deeplearningstuff.iml" />
     </modules>
   </component>
 </project>
