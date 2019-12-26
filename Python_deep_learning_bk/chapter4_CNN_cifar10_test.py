@@ -53,7 +53,6 @@ mdl.add(BatchNormalization())
 mdl.add(Activation('elu'))
 mdl.add(MaxPooling2D(pool_size=(2, 2)))
 mdl.add(Dropout(0.5))
-
 mdl.add(Flatten())
 mdl.add(Dense(10, activation='softmax'))
 # optimizer
@@ -67,5 +66,5 @@ mdl.fit_generator(
     workers=4,
     use_multiprocessing=True
 )
-# Windows support for multiprocessing/multithreading is apparently pathetic, so this will probably fail. I must have spent
-# a whole day trying to install different version of everything. I really think it's time for a proper linux box.
+# Windows support for multiprocessing/multithreading is apparently pathetic, so this will probably fail. I must have
+# spent a whole day trying to install different version of everything. I really think it's time for a proper linux box.

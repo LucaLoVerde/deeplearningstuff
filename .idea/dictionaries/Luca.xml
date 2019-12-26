@@ -4,6 +4,7 @@
       <w>algo</w>
       <w>algos</w>
       <w>backpropagation</w>
+      <w>cifar</w>
       <w>cmap</w>
       <w>convolutional</w>
       <w>crit</w>
@@ -12,8 +13,10 @@
       <w>keras</w>
       <w>minima</w>
       <w>ndarray</w>
+      <w>overfitting</w>
       <w>packt</w>
       <w>pyplot</w>
+      <w>pytorch</w>
       <w>relu</w>
       <w>roelants</w>
       <w>softmax</w>
